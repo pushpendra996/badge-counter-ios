@@ -1,6 +1,6 @@
 # How to Update Badge Counter in Swift iOS | Step-by-Step Tutorial
 
-[![Custom AV Player](https://github.com/pushpendra996/avplayer-swift-part-4-ios/blob/main/Thumbnail%20Seekbar%20for%20Video%20Player%20in%20iOS.png?raw=true)](https://youtu.be/vzWzWLNRCXU)
+[![Custom AV Player](https://github.com/pushpendra996/badge-counter-ios/blob/main/How%20to%20Update%20Badge%20Counter%20in%20Swift%20iOS.png?raw=true)](https://youtu.be/vzWzWLNRCXU)
 
 
 ## 🎥 Overview:
